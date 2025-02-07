@@ -27,10 +27,10 @@ function App() {
         <p className="message">
           On this special day, I want to give you a rose as a symbol of my love and appreciation for you. You are the most beautiful flower in the garden of my life. Happy Rose Day, my love! 💖
         </p>
-        <p className="signature">With all my love,<br />[Your Name]</p>
+        <p className="signature">With all my love,<br />Your Banda</p>
       </main>
       <footer className="footer">
-        <p>Made with ❤️ by [Your Name]</p>
+        <p>Made with ❤️ by AKSHUUUUU</p>
       </footer>
     </div>
   );
